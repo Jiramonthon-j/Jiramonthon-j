@@ -6,7 +6,7 @@ I'm a Faculty of Engineering student, Electronics and Computer Systems Departmen
 
 Because I am interested in databases and I like speaking and presenting, I think I am suitable for Data Analysis because it is a job that requires analyzing and presenting data.
 
-* 🖥️  See my portfolio at [Googledrive](http://https://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy)
+* 🖥️  See my portfolio at [Googledrive](http://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy)
 * ✉️  You can contact me at [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
 
 ### Skills
