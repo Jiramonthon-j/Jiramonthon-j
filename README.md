@@ -2,8 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 I'm a Faculty of Engineering student, Electronics and Computer Systems Department in 3rd year I'm interested in doing an internship in Data Analysis.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 🖥️  See my portfolio at [Googledrive](http://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy?usp=sharing)
+Because I am interested in databases and I like speaking and presenting, I think I am suitable for Data Analysis because it is a job that requires analyzing and presenting data.
+
+* 🖥️  See my portfolio at [Googledrive](http://https://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy)
+* ✉️  You can contact me at [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
 
 ### Skills
 
@@ -17,5 +21,7 @@ I'm a Faculty of Engineering student, Electronics and Computer Systems Departmen
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Jiramonthon-j"><img src="https://github-readme-stats.vercel.app/api?username=Jiramonthon-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jiramonthon-j's GitHub stats" /></a>
 
 <a href="http://www.github.com/Jiramonthon-j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiramonthon-j&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
