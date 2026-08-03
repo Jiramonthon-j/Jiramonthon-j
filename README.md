@@ -41,4 +41,6 @@ With hands-on experience in **full SDLC testing**, enterprise insurance platform
 
 ## 📊 GitHub Stats
 
-![Jirapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiramonthon-j&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiramonthon-j&theme=dark" alt="Jirapat's GitHub Streak" />
+</p>
