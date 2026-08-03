@@ -35,7 +35,7 @@ With hands-on experience in **full SDLC testing**, enterprise insurance platform
 
 - 📄 **Portfolio:** [https://drive.google.com](https://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy)
 - ✉️ **Email:** [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
-- 💼 **LinkedIn:** [in/jirapat-jiramonthon-930240395]
+- 💼 **LinkedIn:** [Jirapat Jiramonthon](https://www.linkedin.com/in/jirapat-jiramonthon-930240395)
 
 ---
 
