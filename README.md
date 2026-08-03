@@ -1,27 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirapat Jiramonthon
-===========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jirapat Jiramonthon
 
-I'm a Faculty of Engineering student, Electronics and Computer Systems Department in 3rd year I'm interested in doing an internship in Data Analysis.
------------------------------------------------------------------------------------------------------------------------------------------------------
+An **Electronics and Computer Systems Engineering student** passionate about **Software Quality Assurance, Test Automation, and Embedded Systems**. Currently focused on building robust test automation frameworks, test data generators, and hardware-software integrations.
 
-Because I am interested in databases and I like speaking and presenting, I think I am suitable for Data Analysis because it is a job that requires analyzing and presenting data.
+With hands-on experience in **full SDLC testing**, enterprise insurance platforms, supply chain finance, and database validation, I combine software testing expertise with a strong engineering background to build reliable software and IoT solutions.
 
-* 🖥️  See my portfolio at [Googledrive](http://drive.google.com/drive/folders/1Cpg51kCkABDjulkWdLG4OKvVoCg8_gCy)
-* ✉️  You can contact me at [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
+---
 
-### Skills
+## 💼 Internship Experience
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" title="Arduino"/></a>
-</p>
+### 🏢 Ocean Life Insurance | **QA / Software Tester Intern**
+`Jun 2026 – Oct 2026` *(4 Months)*
+- Executed full **Software Development Life Cycle (SDLC)** testing, participating in client requirements, test execution, system demo, and project handover.
+- Performed **Database Testing & Data Validation** using SQL and **DBeaver** to reconcile UI display against backend databases.
+- Utilized **Redmine** for defect tracking and test management.
+- Conceptualized and developed production-ready internal tools: **Test Data Simulator** and **Playwright Test Automation Framework**.
 
-### Socials
+### 🏢 General Electronic Commerce Services (GEC) | **QA / Software Tester Intern**
+`Apr 2026 – Jun 2026` *(2 Months)*
+- Tested **Supply Chain Finance (SCF)** applications, specifically **Buyer Finance Programs (BFP)** and **Supplier Finance Programs (SFP)** involving multi-party transactions (Sponsors, Buyers, and Financial Institutions).
+- Designed comprehensive **Test Cases** and managed test coverage across the full SDLC following the **Waterfall Model**.
 
-<p align="left"> <a href="https://www.github.com/Jiramonthon-j" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Key Skills & Tools
 
-<a href="http://www.github.com/Jiramonthon-j"><img src="https://github-readme-stats.vercel.app/api?username=Jiramonthon-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jiramonthon-j's GitHub stats" /></a>
+- **QA & Testing:** Test Case Design, Functional Testing, Database Testing, SDLC (Waterfall / Agile), Defect Tracking
+- **Automation & Tools:** Playwright, Robot Framework, DBeaver, Redmine, Postman
+- **Languages & Tech:** Python, SQL, C++, HTML/CSS, MicroPython
+- **Hardware & IoT:** ESP32, ROS2 Humble, micro-ROS, Sensors (MPU6050, HC-SR04)
 
-<a href="http://www.github.com/Jiramonthon-j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiramonthon-j&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+## 📬 Connect with Me
+
+- 📄 **Portfolio:** [Google Drive Link](https://drive.google.com)
+- ✉️ **Email:** [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
+
+---
+
+## 📊 GitHub Stats
+
+![Jirapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiramonthon-j&show_icons=true&theme=dark)
