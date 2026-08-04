@@ -30,7 +30,7 @@ With hands-on experience in **full SDLC testing**, enterprise insurance platform
 ## 🛠️ Key Skills & Tools
 
 - **QA & Testing:** Test Case Design, Functional Testing, Database Testing, SDLC (Waterfall / Agile), Defect Tracking
-- **Automation & Tools:** Playwright, Robot Framework, DBeaver, Redmine, Postman
+- **Automation & Tools:** Playwright, DBeaver, Redmine
 - **Languages & Tech:** Python, SQL, C++, HTML/CSS, MicroPython
 - **Hardware & IoT:** ESP32, ROS2 Humble, micro-ROS, Sensors (MPU6050, HC-SR04)
 
