@@ -8,17 +8,22 @@ With hands-on experience in **full SDLC testing**, enterprise insurance platform
 
 ## 💼 Internship Experience
 
-### 🏢 Ocean Life Insurance | **QA / Software Tester Intern**
-`Jun 2026 – Oct 2026` *(4 Months)*
-- Executed full **Software Development Life Cycle (SDLC)** testing, participating in client requirements, test execution, system demo, and project handover.
-- Performed **Database Testing & Data Validation** using SQL and **DBeaver** to reconcile UI display against backend databases.
-- Utilized **Redmine** for defect tracking and test management.
-- Conceptualized and developed production-ready internal tools: **Test Data Simulator** and **Playwright Test Automation Framework**.
+### 🏢 Ocean Life Insurance (Life Insurance) | QA / Software Tester Intern
 
-### 🏢 General Electronic Commerce Services (GEC) | **QA / Software Tester Intern**
-`Apr 2026 – Jun 2026` *(2 Months)*
-- Tested **Supply Chain Finance (SCF)** applications, specifically **Buyer Finance Programs (BFP)** and **Supplier Finance Programs (SFP)** involving multi-party transactions (Sponsors, Buyers, and Financial Institutions).
-- Designed comprehensive **Test Cases** and managed test coverage across the full SDLC following the **Waterfall Model**.
+*Jun 2026 – Oct 2026 (4 Months)*
+
+* Executed full **Software Development Life Cycle (SDLC)** testing, participating in client requirements, test execution, system demo, and project handover.
+* Performed **Database Testing & Data Validation** using **SQL** and **DBeaver** to reconcile UI display against backend databases.
+* Utilized **Redmine** for defect tracking and test management.
+* Conceptualized and developed production-ready internal tools: **Test Data Simulator** and **Playwright Test Automation Framework**.
+
+
+### 🏢 General Electronic Commerce Services (GEC) (Software House) | QA / Software Tester Intern
+
+*Apr 2026 – Jun 2026 (2 Months)*
+
+* Tested **Supply Chain Finance (SCF)** applications in a Software House environment, specifically **Buyer Finance Programs (BFP)** and **Supplier Finance Programs (SFP)** involving multi-party transactions (Sponsors, Buyers, and Financial Institutions).
+* Designed comprehensive **Test Cases** and managed test coverage across the full SDLC following the **Waterfall Model**.
 
 ---
 
