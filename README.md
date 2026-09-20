@@ -1,30 +1,35 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Jirapat Jiramonthon
+# Hi I'm Jirapat Jiramonthon
 
-An **Electronics and Computer Systems Engineering student** passionate about **Software Quality Assurance, Test Automation, and Embedded Systems**. Currently focused on building robust test automation frameworks, test data generators, and hardware-software integrations.
+An Electronics and Computer Systems Engineering student passionate about Software Quality Assurance, Test Automation, and Embedded Systems. My focus is on building test automation frameworks, test data generators, and hardware-software integrations.
 
-With hands-on experience in **full SDLC testing**, enterprise insurance platforms, supply chain finance, and database validation, I combine software testing expertise with a strong engineering background to build reliable software and IoT solutions.
+On the software side, I have hands-on experience in full SDLC testing, enterprise insurance platforms, supply chain finance, and database validation. On the hardware side, I have designed, built, and assembled IoT projects, with practical knowledge of IoT circuit connections, reading circuit layouts, wiring, and other hardware fundamentals. I can also read and understand the code logic that runs on IoT devices.
+
+By combining software testing expertise with a solid engineering background, I aim to build reliable software and IoT solutions.
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
-### 🏢 Ocean Life Insurance (Life Insurance) | QA / Software Tester Intern
-*Jun 2026 – Present*
+**Ocean Life Insurance** (Life Insurance) | QA / Software Tester Intern<br>
+*Jun 2026 – Oct 2026 (4 Months)*
 
-* Executed full **Software Development Life Cycle (SDLC)** testing, reviewing requirement specifications, performing test execution, system demos, and project handover.
-* Performed **Database Testing & Data Validation** using **SQL** and **DBeaver** to reconcile UI display against backend databases.
-* Utilized **Redmine** for defect tracking and test management.
-* Conceptualized and developed production-ready internal tools: **Test Data Simulator** and **Playwright Test Automation Framework**.
+- Executed full Software Development Life Cycle (SDLC) testing: reviewed requirement specifications, performed test execution, delivered system demos, and supported project handover.
+- Performed database testing and data validation using SQL and DBeaver to reconcile UI display against backend data.
+- Used Redmine for defect tracking and test management.
+- Gained hands-on experience with deployment through Jenkins, API testing (sending and verifying API requests), and working with the AS400 system.
+- Applied AI in day-to-day QA work to reduce manual effort and speed up test preparation and analysis.
+- Conceptualized and developed production-ready internal tools: a Test Data Simulator and a Playwright Test Automation Framework.
 
-### 🏢 General Electronic Commerce Services (GEC) (Software House) | QA / Software Tester Intern
+**General Electronic Commerce Services (GEC)** (Software House) | QA / Software Tester Intern<br>
 *Apr 2026 – Jun 2026 (2 Months)*
 
-* Tested **Supply Chain Finance (SCF)** applications in a Software House environment, specifically **Buyer Finance Programs (BFP)** and **Supplier Finance Programs (SFP)** involving multi-party transactions (Sponsors, Buyers, and Financial Institutions).
-* Designed comprehensive **Test Cases** and managed test coverage across the full SDLC following the **Waterfall Model**.
+- Conducted functional testing of Supply Chain Finance (SCF) applications in a software house environment, covering Buyer Finance Programs (BFP) and Supplier Finance Programs (SFP) that involve multi-party transactions among Sponsors, Buyers, and Financial Institutions.
+- Designed comprehensive test cases and managed test coverage across the full SDLC, following the Waterfall model.
+- Gained hands-on experience writing test cases and executing real-world testing for a client in the beverage industry.
 
 ---
 
-## 🛠️ Key Skills & Tools
+##  Key Skills & Tools
 
 * **QA & Testing:** Test Case Design, Functional Testing, Database Testing, SDLC (Waterfall / Agile), Defect Tracking
 * **Automation & Tools:** Playwright, DBeaver, Redmine
