@@ -38,15 +38,15 @@ By combining software testing expertise with a solid engineering background, I a
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
-* 📄 **Portfolio:** [Google Drive Portfolio](https://drive.google.com/drive/folders/13i3Sv-ednEKZu4vPUhzNoiz3BQgyd4WW?usp=sharing)
-* ✉️ **Email:** [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
-* 💼 **LinkedIn:** [Jirapat Jiramonthon](https://www.linkedin.com/in/jirapat-jiramonthon-930240395)
+*  **Portfolio:** [Google Drive Portfolio](https://drive.google.com/drive/folders/13i3Sv-ednEKZu4vPUhzNoiz3BQgyd4WW?usp=sharing)
+*  **Email:** [Jiramonthon.j@gmail.com](mailto:Jiramonthon.j@gmail.com)
+*  **LinkedIn:** [Jirapat Jiramonthon](https://www.linkedin.com/in/jirapat-jiramonthon-930240395)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiramonthon-j&theme=dark" alt="Jirapat's GitHub Streak" />
