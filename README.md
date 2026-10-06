@@ -11,7 +11,7 @@ By combining software testing expertise with a solid engineering background, I a
 ## Internship Experience
 
 **Ocean Life Insurance** (Life Insurance) | QA / Software Tester Intern<br>
-*Jun 2026 – Oct 2026 (4 Months)*
+*Jun 2026 – Oct 2026*
 
 - Executed full Software Development Life Cycle (SDLC) testing: reviewed requirement specifications, performed test execution, delivered system demos, and supported project handover.
 - Performed database testing and data validation using SQL and DBeaver to reconcile UI display against backend data.
@@ -21,7 +21,7 @@ By combining software testing expertise with a solid engineering background, I a
 - Designed and built two internal tools: a [Test Data Simulator](https://github.com/Jiramonthon-j/test-data-simulator) and a Playwright Test Automation Framework. The company is using them as demos and may adopt them into real workflows in the future.
 
 **General Electronic Commerce Services (GEC)** (Software House) | QA / Software Tester Intern<br>
-*Apr 2026 – Jun 2026 (2 Months)*
+*Apr 2026 – Jun 2026*
 
 - Conducted functional testing of Supply Chain Finance (SCF) applications in a software house environment, covering Buyer Finance Programs (BFP) and Supplier Finance Programs (SFP) that involve multi-party transactions among Sponsors, Buyers, and Financial Institutions.
 - Designed comprehensive test cases and managed test coverage across the full SDLC, following the Waterfall model.
